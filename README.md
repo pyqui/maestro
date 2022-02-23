@@ -1,2 +1,2 @@
-# maestro
+# Maestro
 Process management platform
